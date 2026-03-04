@@ -24,7 +24,7 @@ The primary goal is to provide stakeholders with actionable insights into where 
 - Vehicle Specifics: Cars are involved in the highest number of casualties (155,804), while Agricultural vehicles represent the lowest (399), providing a clear hierarchy of which transport sectors require the most rigorous safety standards.
 
 ## 🖥️ Preview
-[Blinkit Sales Dashboard](https://github.com/Lawal-Jnr-Analyst/BlinkIT-Grocery-Data/blob/main/BLINKIT.jpg)
+[Road Accident Dashboard](https://github.com/Lawal-Jnr-Analyst/Road-Accident-Analysis/blob/main/Road%20accident.jpg)
 >click the image above to see a preview of the final dashboard.
 
 
